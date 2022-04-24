@@ -29,6 +29,10 @@ body {
   margin: 33px;
 }
 
+#notice {
+  color: green;
+}
+
 p, ol, ul, td {
   font-family: verdana, arial, helvetica, sans-serif;
   font-size: 13px;
